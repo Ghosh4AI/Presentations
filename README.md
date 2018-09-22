@@ -1,2 +1,3 @@
 # Presentations
-This repository contains all presentations used in the Ghosh4AI youtube channel
+
+1. Top 5 Machine Learning Algorithms other than deep learning.
